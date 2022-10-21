@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-20T15:25:30.328Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gv5iAjfTrnO4yYUUxPda" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T21:03:56.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pH0DSP5f2womXbTsGxlV" version="20.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -791,10 +791,10 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-166" value="Cobertura=1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="774.5" y="2517" width="105" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IaHk8nRBQD6NAoEdmpQj-170" value="Aporte Empleado = &lt;br&gt;DeltaCCFAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="IaHk8nRBQD6NAoEdmpQj-170" value="Aporte Compañia= &lt;br&gt;DeltaCCFAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1159" y="2535.75" width="122" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="IaHk8nRBQD6NAoEdmpQj-172" value="Aporte Empleado=0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="IaHk8nRBQD6NAoEdmpQj-172" value="Aporte Compañia=0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="772.5" y="2627" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-212" target="IaHk8nRBQD6NAoEdmpQj-217" edge="1">
@@ -952,7 +952,7 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-278" value="Cobertura = 1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="937" y="3020" width="120" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="IaHk8nRBQD6NAoEdmpQj-280" value="Campo 84 = Valor Bono Renta Accesoria&lt;br&gt;Campo 90 = Aporte Empleado&lt;br&gt;Campo 83 = Codigo Entidad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="IaHk8nRBQD6NAoEdmpQj-280" value="Campo 84 = Valor Bono Renta Accesoria&lt;br&gt;Campo 90 = Aporte Compañia&lt;br&gt;Campo 83 = Codigo Entidad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1098" y="3026" width="222" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-283" value="Campo 84 = Valor Bono Renta Accesoria&lt;br&gt;Campo 90 = 0&lt;br&gt;Campo 83 = Codigo Entidad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
