@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-21T21:03:56.542Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="pH0DSP5f2womXbTsGxlV" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T19:14:36.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qFqv69appm329IyKnb7K" version="20.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -524,9 +524,6 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-25" target="IaHk8nRBQD6NAoEdmpQj-107" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IaHk8nRBQD6NAoEdmpQj-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-25" target="IaHk8nRBQD6NAoEdmpQj-108" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-25" value="Calcular DeltaFonasaAcc y DeltaCCFAcc en formulación de la cobertura de cada mes en rango de fechas desde-hasta Proceso 171" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="910" y="1801" width="200" height="65" as="geometry" />
         </mxCell>
@@ -653,10 +650,7 @@
           <mxGeometry x="751.5" y="1898" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-107" value="Aporte Empleado = &lt;br&gt;DeltaSaludAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1161" y="1798" width="122" height="32.5" as="geometry" />
-        </mxCell>
-        <mxCell id="IaHk8nRBQD6NAoEdmpQj-108" value="Val_Salud = &lt;br&gt;DeltaFonasaAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1161" y="1841" width="122" height="32.5" as="geometry" />
+          <mxGeometry x="1159" y="1816.75" width="122" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-114" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-112" target="IaHk8nRBQD6NAoEdmpQj-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -818,13 +812,13 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-217" value="Parametrización Reporte Archivo Previred Gratificaciones" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="2755" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-220" target="8AbVKH0wm0X6JSgzLHia-13">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-220" target="8AbVKH0wm0X6JSgzLHia-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-220" value="Generación Reporte Archivo Previred Gratificaciones" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="2811" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-222" target="IaHk8nRBQD6NAoEdmpQj-240">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-222" target="IaHk8nRBQD6NAoEdmpQj-240" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-222" value="Recuperar Valor Concepto NOC Bono Renta Accesoria" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -844,13 +838,13 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-226" value="Recuperar Aporte Empleado CLISAPRE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="599" y="2910" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-228" target="8AbVKH0wm0X6JSgzLHia-0">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-228" target="8AbVKH0wm0X6JSgzLHia-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-228" value="Recuperar Aporte Empleado y Compañia CLSEGCES" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="599" y="3149" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-230" target="8AbVKH0wm0X6JSgzLHia-2">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-230" target="8AbVKH0wm0X6JSgzLHia-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-230" value="Recuperar Aporte Compañia CLMUTUAL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -877,7 +871,7 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-240" value="Recuperar Cotizaciones Proceso 171" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="333.25" y="2815" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-247" target="8AbVKH0wm0X6JSgzLHia-18">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-247" target="8AbVKH0wm0X6JSgzLHia-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="225" y="3010" />
@@ -926,7 +920,7 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-268" value="Entidad=&lt;br&gt;&amp;nbsp;315 (fonasa)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="942" y="2899.5" width="120" height="62.5" as="geometry" />
         </mxCell>
-        <mxCell id="IaHk8nRBQD6NAoEdmpQj-271" value="Campo 64 = Valor Bono Renta Accesoria&lt;br&gt;Campo 70 = Val Salud&lt;br&gt;Campo 75 = Codigo Entidad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="IaHk8nRBQD6NAoEdmpQj-271" value="Campo 64 = Valor Bono Renta Accesoria&lt;br&gt;Campo 70 = Aporte Empleado&lt;br&gt;Campo 75 = Codigo Entidad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1098" y="2905" width="222" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-273" value="Campo 77 = Valor Bono Renta Accesoria&lt;br&gt;Campo 80 = Aporte Empleado&lt;br&gt;Campo 75 = Codigo Entidad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -958,40 +952,40 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-283" value="Campo 84 = Valor Bono Renta Accesoria&lt;br&gt;Campo 90 = 0&lt;br&gt;Campo 83 = Codigo Entidad" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1097" y="3081" width="222" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-285" target="8AbVKH0wm0X6JSgzLHia-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-285" target="8AbVKH0wm0X6JSgzLHia-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-285" value="Recuperar Aporte Compañia CLSIS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="599" y="3222" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-4" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-0" target="8AbVKH0wm0X6JSgzLHia-3">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-4" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-0" target="8AbVKH0wm0X6JSgzLHia-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-0" value="CLSEGCES&lt;br&gt;Cob (1,2,3)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-0" value="CLSEGCES&lt;br&gt;Cob (1,2,3)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="777" y="3142" width="120" height="51.5" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-9" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-1" target="8AbVKH0wm0X6JSgzLHia-8">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-9" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-1" target="8AbVKH0wm0X6JSgzLHia-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-1" value="CLSIS&lt;br&gt;Cob (1)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-1" value="CLSIS&lt;br&gt;Cob (1)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="777" y="3214.5" width="120" height="45.5" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-11" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-2" target="8AbVKH0wm0X6JSgzLHia-10">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-11" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-2" target="8AbVKH0wm0X6JSgzLHia-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-2" value="CLMUTUAL&lt;br&gt;Cob(1)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-2" value="CLMUTUAL&lt;br&gt;Cob(1)" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="778" y="3269.5" width="120" height="55.5" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-3" value="Campo 26 = Codigo Entidad&lt;br&gt;Campo 100 = Valor Bon Renta Accesoria&lt;br&gt;Campo 101 = Aporte Empleado&lt;br&gt;Campo 102 = Aporte Compañia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-3" value="Campo 26 = Codigo Entidad&lt;br&gt;Campo 100 = Valor Bon Renta Accesoria&lt;br&gt;Campo 101 = Aporte Empleado&lt;br&gt;Campo 102 = Aporte Compañia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="978" y="3142.25" width="222" height="52.75" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-8" value="Campo 26 = Codigo Entidad&lt;br&gt;Campo 27 = Valor Bono Renta Accesoria&lt;br&gt;Campo 29 = Aporte Compañia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-8" value="Campo 26 = Codigo Entidad&lt;br&gt;Campo 27 = Valor Bono Renta Accesoria&lt;br&gt;Campo 29 = Aporte Compañia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="978" y="3212.88" width="222" height="49.12" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-10" value="Campo 96 = Codigo Entidad&lt;br&gt;Campo 97 = Valor Bono Renta Accesoria&lt;br&gt;Campo 98 = Aporte Compañia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-10" value="Campo 96 = Codigo Entidad&lt;br&gt;Campo 97 = Valor Bono Renta Accesoria&lt;br&gt;Campo 98 = Aporte Compañia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="976" y="3272.69" width="222" height="49.12" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-13" target="IaHk8nRBQD6NAoEdmpQj-247">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-13" target="IaHk8nRBQD6NAoEdmpQj-247" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="2930" />
@@ -999,47 +993,47 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-13" value="&lt;font color=&quot;#000000&quot;&gt;Llenado Datos &lt;br&gt;Básicos del Trabajador&lt;/font&gt;&lt;br&gt;&amp;nbsp;Campos (1,2,3,4,5,6,7,105)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-13" value="&lt;font color=&quot;#000000&quot;&gt;Llenado Datos &lt;br&gt;Básicos del Trabajador&lt;/font&gt;&lt;br&gt;&amp;nbsp;Campos (1,2,3,4,5,6,7,105)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="2872.5" width="180" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-18" target="8AbVKH0wm0X6JSgzLHia-21">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-18" target="8AbVKH0wm0X6JSgzLHia-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-18" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Llenado Régimen Previsional&lt;br&gt;&amp;nbsp;y Tipo de Trabajador&lt;/span&gt;&lt;br&gt;Campos (11,12)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-18" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Llenado Régimen Previsional&lt;br&gt;&amp;nbsp;y Tipo de Trabajador&lt;/span&gt;&lt;br&gt;Campos (11,12)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="3027" width="180" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-21" target="8AbVKH0wm0X6JSgzLHia-23">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-21" target="8AbVKH0wm0X6JSgzLHia-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-21" value="&lt;font color=&quot;#000000&quot;&gt;Días Trabajados y Tipo de Línea&lt;/font&gt;&lt;br&gt;Campo (13) = 30&lt;br&gt;Campo (14) = 0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-21" value="&lt;font color=&quot;#000000&quot;&gt;Días Trabajados y Tipo de Línea&lt;/font&gt;&lt;br&gt;Campo (13) = 30&lt;br&gt;Campo (14) = 0" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="3090" width="180" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.36;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-23" target="8AbVKH0wm0X6JSgzLHia-27">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.36;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-23" target="8AbVKH0wm0X6JSgzLHia-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-23" value="&lt;font color=&quot;#000000&quot;&gt;Movimiento de Personal&lt;/font&gt;&lt;br&gt;Campo (15) = 0&lt;br&gt;Campos (16,17) = Blanco" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-23" value="&lt;font color=&quot;#000000&quot;&gt;Movimiento de Personal&lt;/font&gt;&lt;br&gt;Campo (15) = 0&lt;br&gt;Campos (16,17) = Blanco" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="3151" width="180" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-27" target="8AbVKH0wm0X6JSgzLHia-28">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-27" target="8AbVKH0wm0X6JSgzLHia-28" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="394" y="3270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-27" value="&lt;font color=&quot;#000000&quot;&gt;Llenado Campos en Cero&lt;/font&gt;&lt;br&gt;Campos (19,20,21,22,23,24,30,31,32,33,34,38)&lt;br&gt;Campos (39,40,42,43,44,45,47,48,49,50,55,58)&lt;br&gt;Campos (59,60,61,72,73,74,79,81,82,85,86,87)&lt;br&gt;Campos (88,89.91,92,93,94,95,99,103)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-27" value="&lt;font color=&quot;#000000&quot;&gt;Llenado Campos en Cero&lt;/font&gt;&lt;br&gt;Campos (19,20,21,22,23,24,30,31,32,33,34,38)&lt;br&gt;Campos (39,40,42,43,44,45,47,48,49,50,55,58)&lt;br&gt;Campos (59,60,61,72,73,74,79,81,82,85,86,87)&lt;br&gt;Campos (88,89.91,92,93,94,95,99,103)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="76.5" y="3230" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-28" target="8AbVKH0wm0X6JSgzLHia-31">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-28" target="8AbVKH0wm0X6JSgzLHia-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-28" value="&lt;font color=&quot;#000000&quot;&gt;Llenado Campos en Blano&lt;br&gt;&lt;/font&gt;Campos (18,35,36,37,41,46,51)&lt;br&gt;Campos (52,53,54,56,57,76,104)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-28" value="&lt;font color=&quot;#000000&quot;&gt;Llenado Campos en Blano&lt;br&gt;&lt;/font&gt;Campos (18,35,36,37,41,46,51)&lt;br&gt;Campos (52,53,54,56,57,76,104)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="300" y="3120" width="187.62" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-31" target="IaHk8nRBQD6NAoEdmpQj-222">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="8AbVKH0wm0X6JSgzLHia-31" target="IaHk8nRBQD6NAoEdmpQj-222" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8AbVKH0wm0X6JSgzLHia-31" value="&lt;font color=&quot;#000000&quot;&gt;Otros Campos x Defecto&lt;/font&gt;&lt;br&gt;Campo(25) = N&lt;br&gt;Campo (78) = 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8AbVKH0wm0X6JSgzLHia-31" value="&lt;font color=&quot;#000000&quot;&gt;Otros Campos x Defecto&lt;/font&gt;&lt;br&gt;Campo(25) = N&lt;br&gt;Campo (78) = 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="321.5" y="3031" width="143.5" height="50" as="geometry" />
         </mxCell>
       </root>
