@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T19:14:36.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qFqv69appm329IyKnb7K" version="20.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T14:15:18.108Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Tvr9PxqKSqQaB6Q_Nino" version="20.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1237" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -536,6 +536,9 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-33" target="IaHk8nRBQD6NAoEdmpQj-122" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-33" target="lD9COT2ue0W-RItrAhng-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-33" value="Aporte Empleado = &lt;br&gt;DeltaAFCAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="597.5" y="2072" width="120" height="30" as="geometry" />
         </mxCell>
@@ -613,6 +616,9 @@
             <mxPoint x="770" y="1684" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-83" target="lD9COT2ue0W-RItrAhng-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-83" value="Aporte Empleado = &lt;br&gt;DeltaAFPAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1015" y="1660" width="122" height="30" as="geometry" />
         </mxCell>
@@ -646,11 +652,17 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-95" value="Recuperar DeltaSaludAcc del Cpto 4946. Descuento Salud Renta Accesoria de cada mes en rango de fechas desde-hasta Proceso 171" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="760" y="1706.5" width="200" height="65" as="geometry" />
         </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-96" target="lD9COT2ue0W-RItrAhng-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-96" value="Aporte Empleado = &lt;br&gt;DeltaSaludAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="751.5" y="1898" width="122" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-107" target="lD9COT2ue0W-RItrAhng-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-107" value="Aporte Empleado = &lt;br&gt;DeltaSaludAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1159" y="1816.75" width="122" height="32.5" as="geometry" />
+          <mxGeometry x="1159" y="1801" width="122" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-114" value="Si" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-112" target="IaHk8nRBQD6NAoEdmpQj-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -692,6 +704,9 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-125" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;DeltaAFCCiaAcc &lt;br&gt;&amp;lt;=0&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1015" y="2048" width="110" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-131" target="lD9COT2ue0W-RItrAhng-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-131" value="Aporte Compania= &lt;br&gt;DeltaAFCCiaAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1017" y="2151" width="120" height="30" as="geometry" />
         </mxCell>
@@ -721,6 +736,9 @@
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-139" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;DeltaSISAcc &lt;br&gt;&amp;lt;=0&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1015" y="2203" width="110" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-140" target="lD9COT2ue0W-RItrAhng-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-140" value="Aporte Compania= &lt;br&gt;DeltaSISAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1017" y="2314" width="120" height="30" as="geometry" />
         </mxCell>
@@ -749,6 +767,9 @@
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-152" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;DeltaMutualAcc &lt;br&gt;&amp;lt;=0&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1015" y="2351" width="110" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-153" target="lD9COT2ue0W-RItrAhng-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-153" value="Aporte Compania= &lt;br&gt;DeltaMutualAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1017" y="2462" width="120" height="30" as="geometry" />
@@ -784,6 +805,9 @@
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-166" value="Cobertura=1" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="774.5" y="2517" width="105" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IaHk8nRBQD6NAoEdmpQj-170" target="lD9COT2ue0W-RItrAhng-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IaHk8nRBQD6NAoEdmpQj-170" value="Aporte Compañia= &lt;br&gt;DeltaCCFAcc" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1159" y="2535.75" width="122" height="32.5" as="geometry" />
@@ -1035,6 +1059,27 @@
         </mxCell>
         <mxCell id="8AbVKH0wm0X6JSgzLHia-31" value="&lt;font color=&quot;#000000&quot;&gt;Otros Campos x Defecto&lt;/font&gt;&lt;br&gt;Campo(25) = N&lt;br&gt;Campo (78) = 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontColor=#0000CC;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="321.5" y="3031" width="143.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-0" value="Aporte Empleado = &lt;br&gt;Sumatoria DeltaAFPAcc Todos los Meses Causa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1159" y="1645.5" width="119" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-2" value="Aporte Empleado = &lt;br&gt;Sumatoria DeltaSaludAcc Todos los Meses Causa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160.5" y="1868" width="119" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-5" value="Aporte Empleado = &lt;br&gt;Sumatoria DeltaAFCAcc Todos los Meses Causa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="598" y="2136.5" width="119" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-7" value="Aporte Compañia = &lt;br&gt;Sumatoria DeltaAFCCiaAcc Todos los Meses Causa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1164" y="2128" width="119" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-9" value="Aporte Compañia = &lt;br&gt;Sumatoria DeltaSISAcc Todos los Meses Causa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1162" y="2291.25" width="119" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-11" value="Aporte Compañia = &lt;br&gt;Sumatoria DeltaMutualAcc Todos los Meses Causa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1162" y="2439.5" width="119" height="75.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lD9COT2ue0W-RItrAhng-13" value="Aporte Compañia = &lt;br&gt;Sumatoria DeltaCCFAcc Todos los Meses Causa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fontStyle=0;fontColor=#0000CC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1160.5" y="2581.5" width="119" height="75.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
