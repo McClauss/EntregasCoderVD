@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-03T20:36:42.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="V9yUbuW2PrVzT4YA-Zjg" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-03T20:38:02.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="83ZozDD2aEtZB0fs_Dox" version="20.8.11" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1147" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1646,6 +1646,9 @@
         </mxCell>
         <mxCell id="ViYqs4RBoZLiP5z_N5VA-134" value="(Solicitante + Jefe Pdto)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2169" y="570" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ViYqs4RBoZLiP5z_N5VA-136" value="Tareas Claudio:&lt;br&gt;Documentar Proceso de Comite de Ley&lt;br&gt;Documentar Lista de Chequeo para DRP y AF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2099" y="10" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
