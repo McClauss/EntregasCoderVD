@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T20:17:49.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="edpfkmCjXPJOROLb8dq7" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T20:57:58.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UMoAxJHHfb6hCEf5CArg" version="20.8.16" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="4056" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2097,6 +2097,9 @@
         </mxCell>
         <mxCell id="385KcwYriUup6x9uhN2C-1" value="Añadir al diagrama cuando noe s un cambio en el producto:&lt;br&gt;Es un parámetro nuevo?&lt;br&gt;Es un cambio de formulación?&lt;br&gt;Es un cambio en la funcionalidad?&lt;br&gt;Añadir un valor a una lista &lt;br&gt;de valores o variable:&lt;br&gt;Ejemplo: Tipos de Identidad,&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1821" y="1495" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="385KcwYriUup6x9uhN2C-2" value="Quién actualziar Erclye? &lt;br&gt;Teniendo en cuenta que el comité de Ley no actualiza Erclye" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1802" y="1630" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
